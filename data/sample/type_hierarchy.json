@@ -1,0 +1,36 @@
+{
+  "types": [
+    "Finding",
+    "Disorder",
+    "Chemical",
+    "Anatomy",
+    "Procedure"
+  ],
+  "type_names": {
+    "Finding": "Clinical Finding",
+    "Disorder": "Disease or Syndrome",
+    "Chemical": "Pharmacologic Substance",
+    "Anatomy": "Body Part, Organ, or Organ Component",
+    "Procedure": "Therapeutic or Preventive Procedure"
+  },
+  "subsumption": [
+    ["Finding", "Finding"],
+    ["Disorder", "Disorder"],
+    ["Chemical", "Chemical"],
+    ["Anatomy", "Anatomy"],
+    ["Procedure", "Procedure"]
+  ],
+  "disjoint_pairs": [
+    ["Finding", "Disorder"],
+    ["Finding", "Chemical"],
+    ["Finding", "Anatomy"],
+    ["Finding", "Procedure"],
+    ["Disorder", "Chemical"],
+    ["Disorder", "Anatomy"],
+    ["Disorder", "Procedure"],
+    ["Chemical", "Anatomy"],
+    ["Chemical", "Procedure"],
+    ["Anatomy", "Procedure"]
+  ],
+  "description": "Sample type hierarchy for OntoEL demonstration. In real scenarios, this would be derived from UMLS Semantic Network."
+}

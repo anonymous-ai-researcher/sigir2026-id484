@@ -1,0 +1,34 @@
+{"entity_id": "C0234192", "name": "Cold sensation", "synonyms": ["Feeling cold", "Cold feeling", "Sensation of cold"], "type_ids": ["Finding"], "description": "A sensation of coldness"}
+{"entity_id": "C0009443", "name": "Common cold", "synonyms": ["Cold", "Acute coryza", "Head cold"], "type_ids": ["Disorder"], "description": "A viral infectious disease affecting the upper respiratory system"}
+{"entity_id": "C0032285", "name": "Pneumonia", "synonyms": ["Lung inflammation", "Pulmonary infection"], "type_ids": ["Disorder"], "description": "Inflammatory condition of the lung"}
+{"entity_id": "C0004057", "name": "Aspirin", "synonyms": ["Acetylsalicylic acid", "ASA"], "type_ids": ["Chemical"], "description": "Nonsteroidal anti-inflammatory drug"}
+{"entity_id": "C0018787", "name": "Heart", "synonyms": ["Cardiac structure", "Cor"], "type_ids": ["Anatomy"], "description": "Muscular organ that pumps blood"}
+{"entity_id": "C0011849", "name": "Diabetes mellitus", "synonyms": ["Diabetes", "DM"], "type_ids": ["Disorder"], "description": "Group of metabolic diseases"}
+{"entity_id": "C0015967", "name": "Fever", "synonyms": ["Pyrexia", "Febrile", "Elevated temperature"], "type_ids": ["Finding"], "description": "Abnormally high body temperature"}
+{"entity_id": "C0025598", "name": "Metformin", "synonyms": ["Glucophage", "Metformin hydrochloride"], "type_ids": ["Chemical"], "description": "Biguanide antidiabetic agent"}
+{"entity_id": "C0024109", "name": "Lung", "synonyms": ["Pulmonary structure", "Pulmo"], "type_ids": ["Anatomy"], "description": "Respiratory organ"}
+{"entity_id": "C0018681", "name": "Headache", "synonyms": ["Cephalalgia", "Head pain"], "type_ids": ["Finding"], "description": "Pain in the head region"}
+{"entity_id": "C0020740", "name": "Ibuprofen", "synonyms": ["Advil", "Motrin", "Nurofen"], "type_ids": ["Chemical"], "description": "Nonsteroidal anti-inflammatory drug"}
+{"entity_id": "C0006826", "name": "Malignant neoplasm", "synonyms": ["Cancer", "Malignancy", "Malignant tumor"], "type_ids": ["Disorder"], "description": "Abnormal mass of tissue"}
+{"entity_id": "C0005823", "name": "Blood pressure", "synonyms": ["BP", "Arterial pressure"], "type_ids": ["Finding"], "description": "Pressure of blood in the arteries"}
+{"entity_id": "C0023884", "name": "Liver", "synonyms": ["Hepatic structure", "Hepar"], "type_ids": ["Anatomy"], "description": "Largest internal organ"}
+{"entity_id": "C0021641", "name": "Insulin", "synonyms": ["Insulin hormone"], "type_ids": ["Chemical"], "description": "Peptide hormone"}
+{"entity_id": "C0543467", "name": "Surgery", "synonyms": ["Surgical procedure", "Operation"], "type_ids": ["Procedure"], "description": "Medical procedure involving incision"}
+{"entity_id": "C0022646", "name": "Kidney", "synonyms": ["Renal structure", "Ren"], "type_ids": ["Anatomy"], "description": "Bean-shaped organ"}
+{"entity_id": "C0030193", "name": "Pain", "synonyms": ["Ache", "Soreness"], "type_ids": ["Finding"], "description": "Unpleasant sensory experience"}
+{"entity_id": "C0003232", "name": "Antibiotics", "synonyms": ["Antimicrobial agents", "Antibacterial"], "type_ids": ["Chemical"], "description": "Medications to treat bacterial infections"}
+{"entity_id": "C0038454", "name": "Stroke", "synonyms": ["Cerebrovascular accident", "CVA", "Brain attack"], "type_ids": ["Disorder"], "description": "Sudden loss of brain function"}
+{"entity_id": "C0024485", "name": "MRI", "synonyms": ["Magnetic resonance imaging", "MR imaging"], "type_ids": ["Procedure"], "description": "Medical imaging technique"}
+{"entity_id": "C0020538", "name": "Hypertension", "synonyms": ["High blood pressure", "HTN"], "type_ids": ["Disorder"], "description": "Elevated arterial blood pressure"}
+{"entity_id": "C0000970", "name": "Acetaminophen", "synonyms": ["Paracetamol", "Tylenol", "APAP"], "type_ids": ["Chemical"], "description": "Analgesic and antipyretic drug"}
+{"entity_id": "C0006104", "name": "Brain", "synonyms": ["Cerebrum", "Encephalon"], "type_ids": ["Anatomy"], "description": "Central organ of the nervous system"}
+{"entity_id": "C0015672", "name": "Fatigue", "synonyms": ["Tiredness", "Exhaustion", "Weariness"], "type_ids": ["Finding"], "description": "State of weariness"}
+{"entity_id": "C0010200", "name": "Cough", "synonyms": ["Tussis", "Coughing"], "type_ids": ["Finding"], "description": "Sudden expulsion of air from the lungs"}
+{"entity_id": "C0004096", "name": "Asthma", "synonyms": ["Bronchial asthma", "Asthmatic"], "type_ids": ["Disorder"], "description": "Chronic inflammatory disease of airways"}
+{"entity_id": "C0032952", "name": "Prednisone", "synonyms": ["Deltasone", "Prednicen"], "type_ids": ["Chemical"], "description": "Synthetic corticosteroid"}
+{"entity_id": "C0038351", "name": "Stomach", "synonyms": ["Gastric structure", "Gaster"], "type_ids": ["Anatomy"], "description": "Digestive organ"}
+{"entity_id": "C0005558", "name": "Biopsy", "synonyms": ["Tissue biopsy", "Biopsy procedure"], "type_ids": ["Procedure"], "description": "Removal of tissue for examination"}
+{"entity_id": "C0024117", "name": "COPD", "synonyms": ["Chronic obstructive pulmonary disease"], "type_ids": ["Disorder"], "description": "Progressive lung disease"}
+{"entity_id": "C0009264", "name": "Coldness", "synonyms": ["Cold temperature"], "type_ids": ["Finding"], "description": "Low temperature sensation"}
+{"entity_id": "C0155870", "name": "Bacterial pneumonia", "synonyms": ["Bacterial lung infection"], "type_ids": ["Disorder"], "description": "Pneumonia caused by bacteria"}
+{"entity_id": "C0006277", "name": "Bronchitis", "synonyms": ["Bronchial inflammation"], "type_ids": ["Disorder"], "description": "Inflammation of bronchi"}
