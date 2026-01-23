@@ -37,7 +37,7 @@
 **OntoEL** is a state-of-the-art neuro-symbolic framework that bridges the gap between neural retrieval and logical reasoning for biomedical entity linking. Unlike traditional approaches that treat ontologies as flat dictionaries, OntoEL leverages the rich terminological knowledge (TBox) encoded in biomedical ontologies through differentiable fuzzy Description Logic.
 
 <p align="center">
-  <img src="assets/architecture_overview.png" alt="OntoEL Architecture" width="800"/>
+  <img src="assets/architecture_overview.svg" alt="OntoEL Architecture" width="800"/>
 </p>
 
 ### ✨ Key Features
